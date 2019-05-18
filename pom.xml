@@ -80,7 +80,11 @@
 <url>http://192.168.56.1:8081/repository/SAMPLE-REL/</url>
 </repository>
 
-
+<snapshotRepository>
+<id>SAMPLE-SNAP</id>
+<name>Internal Snapshot Release</name>
+<url>http://192.168.56.1:8081/repository/SAMPLE-SNAP/</url>
+</snapshotRepository>
 
 
 </distributionManagement>
